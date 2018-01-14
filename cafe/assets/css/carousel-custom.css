@@ -1,0 +1,10 @@
+@media (min-width: 1200px){
+	.container{
+		width: 900px;
+	}
+}
+@media (max-width: 425px){
+	#myCarousel{
+		width: 100%;
+	}
+}
